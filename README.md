@@ -30,9 +30,5 @@ Data Handling and Analysis:
 ## In this notebook:
 I have meticulously handled and analyzed this dataset to gain valuable insights into the factors that may influence the risk of strokes. Understanding these factors is crucial for stroke prevention and healthcare strategies.
 
-## Dashboard Creation:
 
-To enhance accessibility and facilitate understanding of the dataset, I have developed a user-friendly dashboard. This dashboard includes interactive visualizations and summaries to help users comprehend the data and explore the relationships between various factors and stroke risk.
-
-Feel free to explore this dataset and interact with the dashboard to better understand the connections between demographic and health-related factors and their impact on stroke risk. Whether you are a healthcare professional, researcher, or someone interested in stroke prevention, this dataset and accompanying dashboard can provide essential information for analysis and decision-making.
 
